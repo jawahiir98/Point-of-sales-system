@@ -1,0 +1,24 @@
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\bin\Debug\Point Of Sales System.exe.config
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\bin\Debug\Point Of Sales System.exe
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\bin\Debug\Point Of Sales System.pdb
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point Of Sales System.csproj.AssemblyReference.cache
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.AddCategory.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.CategoryManagement.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.EditCategory.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Properties.Resources.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point Of Sales System.csproj.GenerateResource.cache
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point Of Sales System.csproj.CoreCompileInputs.cache
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point Of Sales System.exe
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point Of Sales System.pdb
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.DeleteCategory.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.ProductManagement.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.AddProduct.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.DeleteProduct.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.EditProduct.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.BillTransaction.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.ViewBill.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.AdminNavigationPanel.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.Login.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.SalespersonNavigationPanel.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.UserRegistration.resources
+D:\AIUB SEM 12\C#\Final Term Project\Point Of Sales System\Point Of Sales System\obj\Debug\Point_Of_Sales_System.Presentation_Layer.EmployeeInformation.resources
